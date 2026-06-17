@@ -6,18 +6,25 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-OPENWEATHER_API_KEY = os.getenv("OPENWEATHER_API_KEY")
-
+def get_weather_key():
+    import streamlit as st
+    try:
+        if "OPENWEATHER_API_KEY" in st.secrets:
+            return st.secrets["OPENWEATHER_API_KEY"]
+    except:
+        pass
+    return os.getenv("OPENWEATHER_API_KEY")
 
 def fetch_raw_weather(location: str) -> dict:
+    api_key = get_weather_key()
     try:
         current_url = (
             f"http://api.openweathermap.org/data/2.5/weather"
-            f"?q={location},PK&appid={OPENWEATHER_API_KEY}&units=metric"
+            f"?q={location},PK&appid={api_key}&units=metric"
         )
         forecast_url = (
             f"http://api.openweathermap.org/data/2.5/forecast"
-            f"?q={location},PK&appid={OPENWEATHER_API_KEY}&units=metric"
+            f"?q={location},PK&appid={api_key}&units=metric"
         )
 
         current_resp = requests.get(current_url, timeout=10)
