@@ -11,3 +11,4 @@ tavily-python
 python-dotenv
 pdfplumber
 beautifulsoup4
+gTTS
