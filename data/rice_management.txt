@@ -1,0 +1,352 @@
+CROP: Rice (chawal/dhan) | Season: Kharif (May-Nov) | Major Regions: Punjab, Sindh
+
+=========================================================================
+DISEASE: Rice Blast (Magnaporthe oryzae) — "Chawal ki Jali"
+=========================================================================
+Crop: rice (chawal) | Category: DISEASE | Season: Kharif
+Region: Punjab (central), Sindh | Urgency: IMMEDIATE
+
+Symptoms:
+**Leaf Blast:** Diamond-shaped lesions with gray center and brown edges on leaves
+**Neck Blast:** Gray-brown lesions on panicle neck — causes grain sterility
+**Node Blast:** Rotting/blackening at stem nodes
+**Yield Loss:** Up to 50% in severe neck blast
+
+Conditions Favoring Disease:
+- High humidity (>90%) with intermittent rain
+- Moderate temperatures (25-28°C)
+- Excessive nitrogen fertilizer
+- Dense canopy
+- Night temperatures below 20°C
+
+Chemical Treatment:
+1. Tricyclazole (Beam) — 400ml per acre
+   Cost: Rs. 600-900 per acre
+   Apply at disease appearance or before booting stage
+   Second spray at 50% flowering if needed
+   Local brands: Beam 75WP (Dow AgroSciences)
+
+2. Carbendazim — 200g per acre
+   Cost: Rs. 400-600 per acre
+
+3. Isoprothiolane (Fuji-One) — 400ml per acre
+   Cost: Rs. 800-1200 per acre
+
+4. Propiconazole (Tilt) — 200ml per acre
+   Note: Less effective than Tricyclazole for rice blast
+
+Application:
+- Spray when disease reaches 5% severity on upper leaves
+- High volume spray (100L water per acre)
+- Early morning application preferred
+
+Prevention:
+- Resistant varieties: Super Basmati (moderately), KSK-133, Kissan Basmati
+- Balanced nitrogen — split applications (don't dump all at once)
+- Avoid continuous rice-rice rotation
+- Drain field for 2-3 days if leaf blast is severe
+- Seed treatment: Carbendazim 2g/kg seed
+
+=========================================================================
+DISEASE: Bacterial Leaf Blight (Xanthomonas oryzae) — "Bacterical Jhulsao"
+=========================================================================
+Crop: rice (chawal) | Category: DISEASE | Season: Kharif
+Region: Punjab (irrigated areas) | Urgency: IMMEDIATE
+
+Symptoms:
+- Water-soaked yellow to white streaks along leaf veins
+- Lesions start from leaf tips/margins, extend downward
+- Dried leaf tips (look like burnt)
+- Bacterial ooze (yellow droplets) on young lesions in early morning
+- In severe cases: complete leaf drying, yield loss 20-40%
+
+Conditions Favoring Disease:
+- High humidity with rain and wind
+- Excessive nitrogen fertilization
+- Flood-irrigated fields with standing water
+- Wounding from wind, insects, or implements
+
+Chemical Treatment:
+1. Streptocycline (Streptomycin + Tetracycline) — 15g per acre
+   Cost: Rs. 500-700 per acre
+   Apply at first appearance of symptoms
+   Repeat after 10 days if weather remains favorable
+   
+2. Copper oxychloride — 500g per acre
+   Cost: Rs. 300-500 per acre
+
+3. Copper hydroxide (Kocide) — 300g per acre
+
+Prevention:
+- Resistant varieties available (check local recommendations)
+- Reduce nitrogen application during active infection
+- Drain field before spraying for better chemical contact
+- Avoid walking through flooded field when diseased (spreads bacteria)
+- Field sanitation: remove infected straw after harvest
+- Copper-based sprays PREVENTATIVE, not curative — apply before disease appears in high-risk areas
+
+=========================================================================
+DISEASE: Sheath Blight (Rhizoctonia solani) — "Ganwari" 
+=========================================================================
+Crop: rice (chawal) | Category: DISEASE | Season: Kharif
+Region: All rice regions | Urgency: MODERATE
+
+Symptoms:
+- Greenish-gray water-soaked lesions on leaf sheaths near waterline
+- Lesions enlarge, become oval/elliptical with gray center and brown border
+- Lesions coalesce, moving up the plant
+- Infected sheaths rot, leaves die
+- "Banded" appearance on sheaths
+- Yield loss: 10-30% in severe cases
+
+Conditions Favoring Disease:
+- Dense canopy with high humidity
+- High nitrogen, dense planting
+- Continuous rice-wheat rotation (both crops are hosts)
+- Standing water in fields
+
+Chemical Treatment:
+1. Hexaconazole (Contaf) — 250ml per acre
+   Cost: Rs. 400-600 per acre
+2. Carbendazim (Bavistin) — 200g per acre  
+3. Validamycin — 200ml per acre
+   Cost: Yes, effective but less available in Pakistan [VERIFY WITH LOCAL EXPERT]
+
+Prevention:
+- Optimum spacing: plant at 20x20cm or 22x22cm
+- Balanced nitrogen — avoid excess
+- Drain field for 4-5 days when disease appears
+- Avoid continuous rice-wheat
+
+=========================================================================
+DISEASE: Rice Smut / False Smut (Ustilaginoidea virens) — "Pili Jali"
+=========================================================================
+Crop: rice (chawal) | Category: DISEASE | Season: Kharif
+Region: Punjab | Urgency: MODERATE
+
+Symptoms:
+- Individual rice grains replaced by large yellow-green fungal balls
+- Balls turn orange-green to black when mature
+- Only some spikelets per panicle affected
+- Balls are bigger than rice grains
+- More noticeable at harvest
+
+Chemical Treatment:
+- Propiconazole (Tilt) 200ml per acre at booting stage (PREVENTATIVE)
+- Carbendazim 200g per acre at booting
+
+Prevention:
+- Avoid excessive nitrogen at panicle initiation
+- Remove and destroy infected grains (NOT eaten or fed to animals — toxic)
+
+=========================================================================
+PEST: Rice Stem Borer (Scirpophaga incertulas) — "Tana Sundi" / "Gandhi"
+=========================================================================
+Crop: rice (chawal) | Category: PEST | Season: Kharif
+Region: All Pakistan | Urgency: IMMEDIATE
+
+Symptoms:
+- **Dead heart:** Central leaf dries up during vegetative stage (larva bores stem)
+- **White ear head:** Panicle dries prematurely (larva bores at grain stage)
+- Wilting plants, yellowing
+- Small holes at stem base with frass (excreta)
+- Eggs laid on leaf tips in masses covered with brown hairs
+
+Threshold: 10% dead hearts in vegetative stage, 5% white ears at heading
+
+Chemical Treatment:
+1. Cartap hydrochloride — 400g per acre
+   Cost: Rs. 500-700 per acre
+2. Chlorantraniliprole (Coragen) — 60ml per acre
+   Cost: Rs. 800-1000 per acre — very effective
+3. Fipronil — 400ml per acre
+
+Prevention:
+- Deep plowing after harvest destroys overwintering larvae
+- Timely transplanting (before July 15 in Punjab)
+- Use light traps for monitoring adult moths
+- Avoid split-dose nitrogen (attracts more borers when spread out)
+
+=========================================================================
+PEST: Rice Leaf Folder (Cnaphalocrocis medinalis) — "Patti Larhai"  
+=========================================================================
+Crop: rice (chawal) | Category: PEST | Season: Kharif
+Region: All regions | Urgency: MODERATE
+
+Symptoms:
+- Leaves folded and tied together with silk threads
+- Green tissue scraped inside folded leaf — white/transparent strips
+- Yield loss from reduced photosynthesis
+- Damage more serious from panicle initiation through flowering
+
+Threshold: 10-15% damaged leaves before booting
+
+Chemical Treatment:
+1. Chlorantraniliprole (Coragen) — 60ml per acre
+2. Lambda-cyhalothrin — 150ml per acre
+3. Spinosad (Tracer) — 60ml per acre
+   Cost: Rs. 600-800 per acre
+
+Prevention:
+- Natural enemies (spiders, wasps) effective — avoid early sprays
+- Resistant varieties available [VERIFY WITH LOCAL EXPERT]
+
+=========================================================================
+PEST: Brown Planthopper (Nilaparvata lugens) — "Boori Sundi"  
+=========================================================================
+Crop: rice (chawal) | Category: PEST | Season: Kharif
+Region: Punjab (central) | Urgency: IMMEDIATE
+
+Symptoms:
+- Large numbers of small brown insects at base of plant near waterline
+- Leaves turn yellow-orange then brown ("hopper burn") in circular patches
+- Plant dries up and dies — patches resemble drought damage
+- Insects fly up when plant is shaken
+- Also transmits viral diseases (grassy stunt, ragged stunt)
+
+Threshold: 10-15 hoppers per hill (tiller)
+
+Chemical Treatment:
+1. Imidacloprid (Confidor) — 100ml per acre
+   Cost: Rs. 600-800 per acre
+   Apply only when threshold crossed (overuse creates resistance)
+   
+2. Pymetrozine — 200g per acre
+3. Buprofezin — 300ml per acre
+   Cost: Rs. 500-700 per acre
+
+CRITICAL: BPH has developed resistance to many insecticides. Use as part of
+integrated pest management. Avoid pyrethroids on BPH (makes it worse).
+
+Prevention:
+- Avoid dense planting — maintain spacing
+- Don't over-fertilize with nitrogen
+- Keep field drained for 3-4 days when hoppers detected
+- Natural enemies: spiders, mirid bugs — conserve them
+- Use Trichoderma-treated nursery
+
+=========================================================================
+FERTILIZER: Rice Nutrient Schedule
+=========================================================================
+Crop: rice (chawal) | Category: FERTILIZER | Season: Kharif
+Region: All Pakistan | Urgency: PLANNED
+
+Recommended NPK per acre (Basmati varieties):
+- Nitrogen: 35-50 kg/acre (75-110 kg Urea)
+- Phosphorus: 12-20 kg/acre (75-125 kg SSP)
+- Potash: 0-12 kg/acre (0-20 kg MOP) — soil test recommended
+- Zinc: 10-15 kg Zinc Sulfate per acre — CRITICAL for Basmati
+- Sulphur: 5-10 kg per acre on light soils
+
+Application Timing:
+1. Basal (at last puddling): Full P + Full K + half Zn + 1/3 N
+   — Incorporate into soil before transplanting
+2. Top-dressing 1 (15-20 days after transplanting): 1/3 N + half Zn
+   — At active tillering stage
+3. Top-dressing 2 (35-40 days DAT): 1/3 N
+   — At panicle initiation stage
+
+Important Facts:
+- Basmati rice needs LESS nitrogen than coarse varieties (lodges easily)
+- Zinc deficiency causes "khaira" disease — leaves turn yellow-brown, stunting
+- Apply Zinc Sulfate at 10-15kg/acre — MUST for Basmati
+- Silicon: rice benefits from — use rice husk ash where available
+- Never dump all nitrogen at once — split application critical for disease management
+
+=========================================================================
+IRRIGATION: Rice Water Management
+=========================================================================
+Crop: rice (chawal) | Category: IRRIGATION | Season: Kharif
+Region: All Pakistan | Urgency: PLANNED
+
+Critical: Rice is NOT a "water waster" — it needs standing water but can be managed
+
+Water Requirements by Stage:
+1. Nursery (40-45 days): Keep moist 2-3cm standing water after 7 days
+2. Transplanting to 15 DAT: 2-3cm standing water (helps rooting)
+3. Tillering (15-35 DAT): 5-7cm standing water
+4. Panicle Initiation (35-55 DAT): 10-15cm standing water — MOST CRITICAL STAGE
+5. Flowering/Grain filling (55-85 DAT): 5-7cm standing water
+6. Dough stage (85-105 DAT): Keep moist — drain gradually
+7. Maturity (105-115 DAT): Drain completely — harvest 7-10 days after draining
+
+Irrigation Intervals (sandy loam, non-Basmati):
+- Every 2-3 days in hot weather
+- Every 4-5 days in moderate weather
+- Every 3-4 days during strong winds
+
+Water Conservation Tips:
+- Laser leveling before puddling saves 25-30% water
+- Alternate Wetting and Drying (AWD) — irrigate when water level drops 15cm below soil
+  — AWD reduces water by 25% without yield loss
+  — Do NOT use AWD at flowering stage (critical period)
+- Short-duration varieties use less water
+- Direct Seeded Rice (DSR) uses 30-50% less water than transplanting
+
+=========================================================================
+VARIETIES: Recommended Rice Varieties for Pakistan
+=========================================================================
+Crop: rice (chawal) | Category: VARIETIES | Season: Kharif
+Region: Punjab, Sindh | Urgency: PLANNED
+
+Basmati (Premium Export):
+1. Super Basmati — Traditional, premium grain, 32-35 maunds/acre
+2. Basmati-515 — New high-yield, 36-40 maunds/acre, disease resistant
+3. Kissan Basmati — Good yield, good grain length
+4. Basmati-370 — Older but high quality, 30-32 maunds/acre
+
+Non-Basmati (High Yield):
+1. IRRI-6 / KSK-133 — Very high yield (50-60 maunds/acre), bold grain
+2. IRRI-9 — High yield, good for Sindh
+3. NIAB-9 — Suitable for Punjab, 45-50 maunds/acre
+
+Aromatic Varieties:
+1. PK-386 — Shorter duration than Super Basmati
+2. Chenab Basmati — Aromatic, good yield
+
+[DISCLAIMER: Variety availability varies by season and dealer. Check with local agri dealer.]
+
+=========================================================================
+STORAGE: Rice Post-Harvest Storage
+=========================================================================
+Crop: rice (chawal) | Category: STORAGE | Season: Kharif
+Region: All Pakistan | Urgency: PLANNED
+
+- Harvest at 20-22% moisture (paddy)
+- Thresh within 24 hours
+- Dry paddy to 14% moisture within 48 hours
+- Store at <12% moisture for long-term (6+ months)
+- Sun dry: spread in thin layer, turn every 30 minutes
+- Store in clean gunny bags on wooden pallets (not on floor)
+- Use Phostoxin tablet: 1 per 100kg paddy
+- Check monthly for insects and moisture
+
+=========================================================================
+HARVESTING: Rice Harvest Guide  
+=========================================================================
+Crop: rice (chawal) | Category: HARVESTING | Season: Kharif
+Region: All Pakistan | Urgency: THIS SEASON
+
+- Harvest when 80% grains turn golden yellow
+- Panicle neck becomes pale yellow
+- Grains are hard and barely leave dent when bitten
+- Manual: cut with sickles, bundle, sun dry 3-4 days
+- Combine harvester: direct harvesting cost Rs. 2000-3000 per acre
+- Threshing: Rs. 400-500 per acre (machine)
+- Drying: spread paddy 2 inches, turn every hour, 2-3 sunny days
+- Recent market price (2025): Basmati Rs. 4000-5000 per 40kg (paddy)
+- Coarse varieties (IRRI): Rs. 2000-2800 per 40kg (paddy)
+
+=========================================================================
+SOIL: Rice Soil Requirements
+=========================================================================
+Crop: rice (chawal) | Category: SOIL | Season: Kharif
+Region: All Pakistan | Urgency: PLANNED
+
+- Clay loam to silty clay ideal (holds water)
+- Heavy clay: Basmati grows best
+- Sandy loam: needs more water and fertilizer
+- pH: 5.5-7.0
+- Good soil: rice grows well in slightly acidic soils
+- Saline/sodic soils: NOT suitable for rice (salt-sensitive)
+- Soil should hold 5-10cm standing water percolation loss of 5-10mm/day

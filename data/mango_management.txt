@@ -1,0 +1,275 @@
+CROP: Mango (aam) | Season: Kharif (Flowering Feb-Mar, Harvest May-Sep)
+Region: Punjab (Multan), Sindh (Mirpurkhas), KPK
+
+=========================================================================
+DISEASE: Anthracnose (Colletotrichum gloeosporioides) — "Kali Jali"
+=========================================================================
+Crop: mango (aam) | Category: DISEASE | Season: Kharif
+Region: All mango areas | Urgency: IMMEDIATE
+
+Symptoms:
+On Leaves:
+- Irregular black/brown spots on leaves
+- Leaf tip blight and dieback
+- Leaf drop in severe cases
+
+On Flowers:
+- Black spots on flowers and panicles
+- Flowers drop without fruit set ("blossom blight")
+
+On Fruit:
+- Black sunken spots on fruit (can expand to large rotten areas)
+- In storage: fruit rot develops after harvest
+- Most damaging stage: flowering — can ruin entire crop
+
+Conditions:
+- High humidity and rainfall during flowering (Feb-March)
+- Spreads by rain splash
+- Worst in Sindh (Mirpurkhas area) during wet spring
+
+Chemical Treatment (timing CRITICAL — start at flower emergence):
+1. Nativo 75WG (Trifloxystrobin + Tebuconazole) — 100g per 100L water
+   Efficacy: 92% control of anthracnose
+   Cost: Rs. 1200-1600 per acre
+   Apply at: Flower emergence, full bloom, fruit set (3 sprays)
+
+2. Cabriotop 60WG (Metiram + Pyraclostrobin) — 200g per 100L water
+   Efficacy: 85-90% control
+
+3. Copper oxychloride — 500g per 100L water
+   Cost: Rs. 400-600 per acre
+   Apply at 10-15 day intervals during wet weather
+
+4. Topsin M (Thiophanate methyl) — 200g per 100L water
+
+Spray Schedule (for orchards with history of anthracnose):
+  1st spray: At flower bud emergence (Feb 1-15)
+  2nd spray: At full bloom (Feb 25 - Mar 5)
+  3rd spray: At fruit set (pebble stage — Mar 15-25)
+  4th spray: 2 weeks before harvest (Apr-May)
+
+Post-Harvest Treatment:
+- Hot water treatment: Dip fruit in 52°C water for 5 minutes
+- Reduces post-harvest anthracnose significantly
+
+Prevention:
+- Prune dead/diseased branches after harvest
+- Remove fallen leaves and fruit from orchard floor
+- Maintain open canopy (pruning for air circulation)
+- Avoid overhead irrigation during flowering
+- Resistant varieties: Sindhri (moderately resistant), Chunsa (susceptible)
+
+=========================================================================
+DISEASE: Powdery Mildew (Oidium mangiferae) — "Safed Phaphundi"
+=========================================================================
+Crop: mango (aam) | Category: DISEASE | Season: Kharif
+Region: All mango areas | Urgency: IMMEDIATE
+
+Symptoms:
+- White powdery coating on flowers, fruit, and young leaves
+- Affected flowers drop (no fruit set)
+- Young fruit — covered in white powder, cracks, and drops
+- Leaves — white patches, curl, and drop
+- Can cause 60-90% fruit loss in severe epidemics
+
+Conditions:
+- Moderate temperatures (20-25°C) with high humidity
+- Dry weather with morning dew favors disease
+- Most severe during flowering (Feb-March)
+- Cultivars: Chunsa and Anwar Ratool highly susceptible
+
+Chemical Treatment:
+1. Nativo 75WG (Trifloxystrobin + Tebuconazole) — 100g per 100L water
+   Efficacy: 90% control of powdery mildew
+   Cost: Rs. 1200-1600 per acre
+
+2. Topas 100EC (Penconazole) — 100ml per 100L water
+   Efficacy: 90%
+   Cost: Rs. 500-700 per acre
+
+3. Vangard 25EC (Triadimenol) — 200ml per 100L water
+   Efficacy: 92%
+
+4. Sulfur-based (wettable sulfur) — 400g per 100L water
+   Cost: Rs. 200-300 per acre
+   Organic option — apply when temperatures below 30°C (can burn above 30°C)
+
+5. Karathane (Dinocap) — 100ml per 100L water
+
+Spray Schedule:
+  1st spray: At flower panicle emergence (first sign of mildew)
+  2nd spray: 10-14 days after first
+  3rd spray: After fruit set
+
+CRITICAL: Powdery mildew must be controlled BEFORE flowers open.
+Post-infection sprays are less effective.
+
+Prevention:
+- Prune for open canopy
+- Avoid dense planting
+- Remove alternate hosts in surrounding area
+
+=========================================================================
+DISEASE: Mango Malformation — "Aam ki Behoodgi"
+=========================================================================
+Crop: mango (aam) | Category: DISEASE | Season: Kharif
+Region: All, especially Punjab (Multan) | Urgency: MODERATE
+
+Symptoms:
+- Dense cluster of short, thick shoots ("witches broom")
+- Malformed flower panicles — flowers don't open or set fruit
+- Vegetative malformation: excessive branching at shoot tip
+- Floral malformation: 100% yield loss on affected panicles
+- Cause: Fusarium mangiferae (fungus) + mite association
+
+No effective chemical treatment once malformation visible
+
+Management:
+- Prune and burn malformed shoots in winter (December-January)
+- Spray NAA (Naphthalene Acetic Acid) 200ppm at flower bud initiation
+- Avoid use of severely infected wood for propagation
+- Remove malformed panicles early (before they produce spores)
+- Bio-control: Trichoderma harzianum soil application [VERIFY WITH LOCAL EXPERT]
+
+=========================================================================
+PEST: Mango Mealy Bug (Drosicha mangiferae) — "Aam ki Sundi"
+=========================================================================
+Crop: mango (aam) | Category: PEST | Season: Kharif
+Region: All mango areas | Urgency: IMMEDIATE
+
+Symptoms:
+- Cottony white masses on branches and leaves
+- Large clusters of insects sucking sap from tender shoots
+- Honeydew on leaves — sooty mold follows
+- Shoot dieback and leaf drop
+- Fruit: covered with insects, unmarketable
+
+Chemical Treatment:
+1. Chlorpyrifos + Mineral oil — 500ml + 1 liter per acre
+   Apply in December-January (egg stage)
+   Cost: Rs. 600-800 per acre
+2. Imidacloprid 17.8SL — 100ml per acre
+   Apply when nymphs appear (February)
+3. Banding: sticky bands/alkathene sheets around trunk — prevents nymphs climbing
+
+Prevention:
+- Orchard sanitation — remove weeds
+- Remove egg masses from bark in winter
+- Band tree trunks in December (sticky bands at 3-4 ft height)
+- Spray lower trunk with chlorpyrifos
+
+=========================================================================
+PEST: Mango Fruit Fly — "Aam ki Makhi"
+=========================================================================
+Crop: mango (aam) | Category: PEST | Season: Kharif
+Region: All | Urgency: IMMEDIATE
+
+Symptoms:
+- Fruit has small puncture marks (egg-laying)
+- Inside: soft, mushy area with maggots
+- Fruit drops prematurely
+- Post harvest: fruit rots quickly
+- Cannot see infestation from outside until fruit is cut
+
+Control:
+1. Pheromone traps (methyl eugenol) — 10-15 per acre
+   Attract and kill male fruit flies
+   Cost: Very cost-effective, Rs. 200-300 per trap
+2. Protein bait spray: Malathion 2ml + Protein hydrolysate 5ml per liter water
+   Spot spray on 1-2 branches per tree every 7 days
+3. Collect and destroy all fallen fruit (deep bury)
+4. Field sanitation — do not leave infested fruit in orchard
+
+=========================================================================
+FERTILIZER: Mango Nutrient Schedule
+=========================================================================
+Crop: mango (aam) | Category: FERTILIZER | Season: Kharif
+Region: All | Urgency: PLANNED
+
+Per tree (10+ year old tree):
+- FYM: 40-50 kg per tree (post-harvest, July-August)
+- Urea: 1.5-2 kg per tree
+- SSP: 1.5-2 kg per tree
+- SOP/MOP: 1-1.5 kg per tree
+
+Timing:
+- Post harvest (July-Aug): Full FYM + full P + full K + 1/2 N
+- Pre-flowering (Jan-Feb): 1/2 N
+- After fruit set (March-April): micronutrients (Zn, B, Fe) foliar spray
+
+For Young Trees (1-3 years):
+- 1/4 of adult dose, increasing gradually
+- More frequent, lighter applications
+
+Micronutrients (very important for mango):
+- Zinc: 15g Boron + 15g Zinc per 10L water — foliar spray before flowering
+- Boron deficiency causes fruit cracking and poor fruit set
+- Spray 3 times: before flowering, at pea stage, at marble stage
+
+=========================================================================
+IRRIGATION: Mango Water Management
+=========================================================================
+Crop: mango (aam) | Category: IRRIGATION | Season: Kharif
+Region: All | Urgency: PLANNED
+
+Critical stages:
+1. Post-harvest (June-July): heavy irrigation after fertilizer application
+2. Flower initiation (January-February): light irrigation
+3. Fruit development (March-May): regular irrigation at 10-15 day intervals
+4. Pre-harvest (May-June): reduce water for better sugar content and shelf life
+
+Stop irrigation 2-3 weeks before harvest for CHUNSA variety — improves sweetness
+Drip irrigation in mango is emerging but not widespread [VERIFY WITH LOCAL EXPERT]
+Over-irrigation during flowering = excessive vegetative growth, less fruit set
+
+=========================================================================
+HARVESTING: Mango Harvest Guide
+=========================================================================
+Crop: mango (aam) | Category: HARVESTING | Season: Kharif
+Region: All | Urgency: THIS SEASON
+
+- Harvest: May-September (variety dependent)
+- Sindhri: May-June | Chunsa: June-July| Dasehri: July | Anwar Ratool: August
+- Harvest in morning (fruit is cool, longer shelf life)
+- Clip with 2-3 inches stem (sap burn from broken stem damages peel)
+- Place gently in baskets — don't drop or pile
+- Keep in shade immediately after picking
+- Hot water treatment: 52°C for 5 min for anthracnose control (if export-bound)
+- Recent export price: varies enormously by grade and destination
+- Domestic market price season: Rs. 2000-6000 per 40kg (varies by month/cultivar)
+
+=========================================================================
+STORAGE: Mango
+=========================================================================
+Crop: mango (aam) | Category: STORAGE | Season: Kharif
+Region: All | Urgency: PLANNED
+
+- Don't store in plastic bags (suffocation leads to rotting)
+- Keep in single layer, stem up, in ventilated crates
+- Ripening at room temperature: 2-7 days
+- Cold storage: 10-12°C (lower temp = chilling injury)
+- Do NOT refrigerate green mangoes (won't ripen properly)
+- Onion + mango in same storage room: ethylene gas from onion speeds mango ripening
+
+=========================================================================
+VARIETIES: Mango Varieties for Pakistan
+=========================================================================
+Crop: mango (aam) | Category: VARIETIES | Season: Kharif
+Region: All | Urgency: PLANNED
+
+Punjab (Multan):
+- Chunsa — King of mangoes, June-July, very sweet, best for export
+- Dasehri — July, fiberless, excellent taste
+- Anwar Ratool — August, late season, good for processing
+- Langra — July-August, distinct taste (tart-sweet)
+- Sindhri — May-June, early, popular export (actually Sindh but grown elsewhere too)
+
+Sindh (Mirpurkhas, Hyderabad):
+- Sindhri — Premier Sindh variety, May-June, large, golden
+- Neelum — June-September, biennial bearing
+- Sunhara — Improved variety from Sindhri
+
+KPK:
+- Local varieties — smaller, unique taste
+
+[VERIFY WITH LOCAL EXPERT for current variety availability in each region]

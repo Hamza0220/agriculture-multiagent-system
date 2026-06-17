@@ -1,0 +1,152 @@
+CROP: Maize (makki) | Season: Kharif (Jul-Oct) & Rabi (Feb-May) | Regions: Punjab, KPK
+
+=========================================================================
+DISEASE: Maize Leaf Blight (Helminthosporium maydis) — "Pati Jali"
+=========================================================================
+Crop: maize (makki) | Category: DISEASE | Season: Kharif
+Region: All maize areas | Urgency: MODERATE
+
+Symptoms:
+- Small water-soaked spots on leaves
+- Spots enlarge into elongated gray-green to tan lesions
+- Lesions coalesce — large areas of leaf die
+- Lower leaves affected first, then upward
+- Severe: complete leaf blight, reduced grain filling
+
+Chemical Treatment:
+1. Mancozeb (Dithane M-45) — 500g per acre in 100L water
+   Cost: Rs. 300-500 per acre
+2. Propiconazole (Tilt) — 200ml per acre
+3. Carbendazim — 200g per acre
+
+Prevention:
+- Resistant varieties: hybrid varieties are more resistant than open-pollinated
+- Crop rotation
+- Clean field of previous crop debris
+
+=========================================================================
+PEST: Fall Armyworm (Spodoptera frugiperda) — "Phal Sundi"
+=========================================================================
+Crop: maize (makki) | Category: PEST | Season: Kharif
+Region: All regions (invasive, first reported in Pakistan 2019) | Urgency: IMMEDIATE
+
+Symptoms:
+- Irregular holes/chewing damage on young leaves (whorl feeding)
+- Frass (excrement) visible in leaf whorl
+- Window-pane damage on leaves (young larvae scrape surface)
+- Larvae drop to ground at maturity
+- Bores into ear — direct grain damage
+- Scattered damage pattern (moths lay eggs in batches)
+
+Larva identification:
+- Inverted "Y" shape on head
+- Four dark spots in trapezoid on last body segment
+- Colors vary: green, brown, black
+
+Chemical Control (apply to whorl — where larvae hide):
+1. Chlorantraniliprole (Coragen) — 60ml per acre in 100L water
+   Pour into leaf whorl, NOT just sprayed over top
+   Cost: Rs. 800-1000 per acre
+   BEST option — one application can give 2-3 weeks control
+
+2. Spinosad (Tracer) — 60ml per acre
+   Cost: Rs. 600-800 per acre
+   Alternative for organic farming
+
+3. Lambda-cyhalothrin — 200ml per acre
+   Cost: Rs. 400-600
+   Moderate effectiveness — use as last resort
+
+4. Emamectin benzoate — 80g per acre
+   Cost: Rs. 500-700 per acre
+
+Biological Control:
+- Bacillus thuringiensis (Bt) — 500ml per acre (young larvae only)
+- Beauveria bassiana — 250g per acre — fungal biocontrol
+- Natural predators: wasps (Trichogramma), ants, spiders
+- Neem oil — 500ml per acre — moderate repellent effect (NOT curative)
+
+Prevention:
+- Early planting: avoid peak pest season
+- Intercrop with cowpea or beans (push-pull technology)
+- Pheromone traps for monitoring — 3-4 per acre from emergence
+- Deep summer plowing destroys pupae
+
+CRITICAL: Fall Armyworm is an invasive pest in Pakistan since 2019.
+Report severe infestations to local Agriculture Department.
+
+=========================================================================
+DISEASE: Maize Stem Borer — "Tana Sundi"
+=========================================================================
+Crop: maize (makki) | Category: PEST | Season: Kharif
+Region: Punjab, KPK | Urgency: MODERATE
+
+Symptoms:
+- "Shot hole" damage in leaves (young larvae feeding)
+- Dead heart in whorl stage
+- Stem tunneling with frass at entry holes
+- Broken stalks at nodes
+- Poor ear development
+
+Chemical Control:
+1. Carbofuran (Furadan) — 5-8kg per acre
+   Apply in whorl at first sign
+2. Chlorantraniliprole (Coragen) — 60ml per acre (same FAW schedule covers stem borer)
+3. Cartap hydrochloride — 400g per acre
+
+=========================================================================
+FERTILIZER: Maize Nutrient Schedule
+=========================================================================
+Crop: maize (makki) | Category: FERTILIZER | Season: Kharif
+Region: All | Urgency: PLANNED
+
+NPK per acre:
+- Nitrogen: 50-65 kg/acre (110-140 kg Urea)
+- Phosphorus: 15-20 kg/acre (95-125 kg SSP)
+- Potash: 10-15 kg/acre (17-25 kg MOP)
+- Zinc: 5-8 kg Zinc Sulfate
+
+Application:
+1. Basal: Full P + Full K + 1/3 N at sowing
+2. First top (30-35 days): 1/3 N — at knee-high stage
+3. Second top (50-55 days): 1/3 N — at tasseling
+
+CRITICAL: Zn deficiency causes "white bud" — seedlings with white/yellow leaves
+Zinc is MUST for maize in heavy soils and high pH conditions
+
+=========================================================================
+IRRIGATION: Maize Water Management
+=========================================================================
+Crop: maize (makki) | Category: IRRIGATION | Season: Kharif
+Region: All | Urgency: PLANNED
+
+Total: 4-6 irrigations
+
+Critical stages:
+1. 20-25 DAS (knee-high stage)
+2. 35-40 DAS (tasseling) — MOST CRITICAL
+3. 50-55 DAS (silking)
+4. 65-70 DAS (grain filling)
+5. 80-85 DAS (dough stage) — light irrigation if needed
+
+Water stress at tasseling/silking: causes severe yield loss (40-60%)
+Dry weather during grain filling is usually fine (drought-tolerant crop)
+
+=========================================================================
+VARIETIES: Maize Varieties for Pakistan
+=========================================================================
+Crop: maize (makti) | Category: VARIETIES | Season: Kharif
+Region: All | Urgency: PLANNED
+
+Hybrids (High Yielding):
+- Pioneer 30T60 — Very high yield, 60-70 maunds/acre
+- Dekalb DK-6789 — Heat tolerant
+- Syngenta NK-8711 — Good for all regions
+- Monsanto DKC-9108 — Drought tolerant
+- Rafhan YHS-202 — Good for Kharif season
+
+Open Pollinated:
+- Sarhad White — KPK, 25-30 maunds/acre
+- Popcorn varieties — Azam, PPH
+
+[VERIFY WITH LOCAL EXPERT for current hybrid availability]

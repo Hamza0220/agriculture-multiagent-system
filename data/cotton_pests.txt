@@ -1,0 +1,243 @@
+CROP: Cotton (kapas) | Season: Kharif (Apr-Oct) | Major Regions: Punjab, Sindh
+
+=========================================================================
+PEST: Cotton Whitefly (Bemisia tabaci) — "Safed Makhi"
+=========================================================================
+Crop: cotton (kapas) | Category: PEST | Season: Kharif
+Region: Punjab (major), Sindh | Urgency: IMMEDIATE
+
+Symptoms:
+- Small white flying insects on underside of leaves
+- Leaves become sticky with honeydew
+- Sooty mold fungus grows on honeydew — leaves turn black
+- Leaves curl, yellow, and drop prematurely
+- Heavy infestation: complete defoliation, boll drop
+- Also transmits Cotton Leaf Curl Virus (CLCV) — devastating disease
+
+Economic Threshold: 5-8 adults per leaf OR 50% leaves with at least one adult
+
+Chemical Treatment (in rotation — whitefly develops resistance quickly):
+1. Pyriproxyfen — 250ml per acre
+   Cost: Rs. 700-900 per acre
+   Effective on eggs/nymphs, safe for predators
+   
+2. Buprofezin (Admiral) — 300ml per acre
+   Cost: Rs. 600-800 per acre
+   
+3. Imidacloprid (Confidor) — 100ml per acre
+   Cost: Rs. 600-800 per acre
+   Note: WIDELY RESISTANT in many areas — do not rely on alone
+
+4. Spirotetramat (Movento) — 150ml per acre
+   Cost: Rs. 1000-1200 per acre
+   Very effective — works systemically from roots to leaves
+
+5. Diafenthiuron — 300ml per acre
+   Cost: Rs. 500-700 per acre
+
+6. Neem Oil — 500ml per acre (organic option)
+   Use as preventative, NOT for heavy infestations
+
+Spray Rotation Strategy:
+- DO NOT use same insecticide class more than once per season
+- Rotate between: IGR (Pyriproxyfen) → Neonicotinoid → Organophosphate → Oil/Soap
+- Threshold-based spraying — do NOT spray on calendar schedule
+
+Prevention:
+- Avoid early planting (before March 15 in Punjab — higher whitefly risk)
+- Remove alternative hosts: brinjal, okra, tobacco near cotton fields
+- Use border crop: maize or sorghum around field edge
+- Avoid excessive nitrogen — attracts whiteflies
+- Conserve natural predators: lacewings, ladybird beetles, spiders
+- Scout field twice weekly — check underside of top 5 leaves
+
+=========================================================================
+PEST: Cotton Pink Bollworm (Pectinophora gossypiella) — "Gulabi Sundi"
+=========================================================================
+Crop: cotton (kapas) | Category: PEST | Season: Kharif
+Region: Punjab, Sindh | Urgency: IMMEDIATE
+
+Symptoms:
+- Larvae bore into flower buds (squares) and young bolls
+- Damaged squares: rosette flowering (flower doesn't open properly)
+- Bolls don't open fully or open with damaged lint
+- Larvae inside bolls feeding on seeds and lint
+- Entry/exit holes on bolls
+- Yield loss can be 20-40%
+
+Lifecycle:
+- Eggs laid on leaves, squares, and bolls
+- Larva enters boll within 1 hour of hatching (once inside, chemical control useless)
+- Period of greatest risk: boll formation through boll opening
+
+Chemical Treatment (timing CRITICAL — must hit before larva enters boll):
+1. Chlorantraniliprole (Coragen) — 60ml per acre
+   Cost: Rs. 800-1000 per acre
+   Best timing: at peak flowering/early boll formation
+   
+2. Spinosad (Tracer) — 60ml per acre
+   Cost: Rs. 600-800 per acre
+   
+3. Lambda-cyhalothrin — 200ml per acre
+   Cost: Rs. 400-600 per acre
+
+Prevention:
+- Bt cotton (already resistant) — but resistance is breaking in some areas
+- After harvest: remove and destroy cotton stalks before March
+- Deep plowing after harvest
+- Close monitoring during boll formation stage
+- Pheromone traps: 5-8 per acre for monitoring
+
+=========================================================================
+PEST: Cotton Thrips / Jassids — "Naram Makhi"
+=========================================================================
+Crop: cotton (kapas) | Category: PEST | Season: Kharif
+Region: All regions | Urgency: MODERATE
+
+Symptoms (Jassid):
+- Leaves turn yellow from edges inward ("hopper burn" look)
+- Leaves curl downward
+- Stunted plant growth
+- Small green wedge-shaped insects jump when leaves disturbed
+
+Symptoms (Thrips):
+- Silver or brown patches on leaves
+- Leaves curl upward
+- Terminal growth damaged
+
+Chemical Treatment:
+1. Imidacloprid — 100ml per acre (jassid)
+2. Spinosad — 60ml per acre (thrips)
+3. Dimethoate — 400ml per acre (both)
+
+=========================================================================
+DISEASE: Cotton Leaf Curl Virus (CLCV) — "Kapas ka Patti Murh"
+=========================================================================
+Crop: cotton (kapas) | Category: DISEASE | Season: Kharif
+Region: Punjab (major), Sindh | Urgency: IMMEDIATE
+
+Symptoms:
+- Leaf curling upward or downward
+- Thickened, darkened veins (vein thickening)
+- Small leaf-like enations (outgrowths) on underside of leaves
+- Stunted plant growth with reduced fruiting
+- Boll shedding
+- Transmitted by whitefly (Bemisia tabaci)
+
+Management (NO CURE — only prevention):
+- Grow resistant/tolerant varieties:
+  - MNH-886, MNH-992, IUB-222, VH-305
+  - Tarzan-1, Cyto-124
+- Control whitefly population (see whitefly section)
+- Remove and destroy CLCV infected plants as soon as symptoms appear
+- Maintain field boundaries: don't plant near okra or tomatoes (hosts)
+- Timely sowing (avoid late planting — CLCV risk increases)
+
+Treatment for Whitefly (vector control):
+Imidacloprid + Buprofezin rotation — apply at 30, 45, 60 days after emergence
+Pyriproxyfen at first whitefly detection
+
+[VERIFY WITH LOCAL EXPERT: New CLCV strains may overcome resistance in older varieties]
+
+=========================================================================
+DISEASE: Cotton Root Rot (Macrophomina phaseolina) — "Jar Ki Saran"  
+=========================================================================
+Crop: cotton (kapas) | Category: DISEASE | Season: Kharif
+Region: Punjab, Sindh | Urgency: MODERATE
+
+Symptoms:
+- Sudden wilting of plants — leaves remain attached but droop
+- Roots and stem base discolored brown-black
+- Bark peels off easily
+- Plants die in scattered patches
+- Worse in hot, dry conditions
+
+Chemical Treatment:
+- Seed treatment: Carbendazim 2g/kg seed
+- Soil drench: Carbendazim + Mancozeb at disease patches
+- No effective cure once plants are wilting
+
+Prevention:
+- Deep summer plowing
+- Crop rotation (avoid cotton-cotton)
+- Add organic matter to soil
+- Resistant varieties [VERIFY WITH LOCAL EXPERT]
+
+=========================================================================
+FERTILIZER: Cotton Nutrient Schedule
+=========================================================================
+Crop: cotton (kapas) | Category: FERTILIZER | Season: Kharif
+Region: All Pakistan | Urgency: PLANNED
+
+Recommended NPK per acre:
+- Nitrogen: 55-65 kg/acre (120-140 kg Urea)
+- Phosphorus: 15-20 kg/acre (95-125 kg SSP)
+- Potash: 12-15 kg/acre (20-25 kg MOP)
+- Zinc: 5-8 kg Zinc Sulfate per acre
+
+Application Schedule (split application CRITICAL for cotton):
+1. Basal (at sowing): Full P + Full K + 1/4 N
+   — DAP 1 bag + MOP 10kg
+2. First side-dressing (25-30 days after emergence): 1/4 N
+   — Urea 30-35kg — at thinning/square formation
+3. Second side-dressing (50-60 DAE): 1/4 N
+   — Urea 30-35kg — at first flower
+4. Third side-dressing (75-90 DAE): 1/4 N
+   — Urea 30-35kg — at peak boll formation
+
+CRITICAL: Cotton is sensitive to N timing. Late N → excessive vegetative growth,
+more whitefly, less bolls. Stop N after peak boll formation (90 DAE).
+
+=========================================================================
+IRRIGATION: Cotton Water Management
+=========================================================================
+Crop: cotton (kapas) | Category: IRRIGATION | Season: Kharif
+Region: All Pakistan | Urgency: PLANNED
+
+Cotton is drought-tolerant but needs water at critical stages:
+
+Stages:
+1. Sowing to emergence: Keep soil moist (light irrigation every 5-7 days)
+2. Square formation (30-50 DAE): Moderate water — 2-3 irrigations
+3. Flowering & boll formation (50-90 DAE): CRITICAL — do NOT stress
+   — 3-4 irrigations at 10-12 day intervals
+4. Boll opening (90+ DAE): Reduce water — let field dry for harvest
+
+Total irrigations: 6-10 depending on soil type and rainfall
+Water stress at flowering → severe boll shedding
+
+=========================================================================
+VARIETIES: Recommended Cotton Varieties
+=========================================================================
+Crop: cotton (kapas) | Category: VARIETIES | Season: Kharif
+Region: Punjab | Urgency: PLANNED
+
+Bt (approved):
+1. MNH-886 — High yield, CLCV tolerant
+2. MNH-992 — Good fiber quality, early maturity
+3. IUB-222 — Heat tolerant
+4. Tarzan-1 — CLCV resistant
+5. VH-305 — Good for central Punjab
+6. Cyto-124 — High ginning out turn
+7. FH-152 — Good for southern Punjab
+8. NIAB-878 — High yield under stress
+
+Tips:
+- Bt cotton provides protection against bollworms but NOT against whitefly/sucking pests
+- Non-Bt refuge: plant 10% non-Bt cotton rows for resistance management
+
+[VERIFY WITH LOCAL EXPERT for variety availability]
+
+=========================================================================
+STORAGE: Cotton Storage
+=========================================================================
+Crop: cotton (kapas) | Category: STORAGE | Season: Kharif
+Region: All | Urgency: PLANNED
+
+- Pick cotton when bolls fully open (dry)
+- Pick in morning after dew dries (not wet — staining reduces quality)
+- Separate good quality from stained/damaged
+- Store in dry, well-ventilated place
+- Keep off ground (use wooden pallet)
+- Recent price (2025): Rs. 5500-7000 per 40kg (seed cotton/lint varies by quality)
+- Phutti (seed cotton) prices differ significantly from lint

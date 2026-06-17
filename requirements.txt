@@ -1,0 +1,13 @@
+langchain==0.1.0
+langchain-community
+chromadb
+groq
+openai
+streamlit
+sentence-transformers
+pillow
+requests
+tavily-python
+python-dotenv
+pdfplumber
+beautifulsoup4

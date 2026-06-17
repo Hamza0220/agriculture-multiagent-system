@@ -1,0 +1,8 @@
+{
+  "response": "🌾 FASAL KI SITUATION: \nAapke gandum ke paton par zard dhariyan (Yellow Rust) aa rahi hain, jo ki ek moderate level ki bimari hai. Aapko within 2 weeks ke andar iska ilaj karna zaroori hai.\n\n🔬 BIMARI / KEERA: \nCrop Doctor ne diagnose kiya hai ki aapke gandum ke paton par zard dhariyan (Yellow Rust) hai. Iska ilaj ke liye aapko Propiconazole 25EC (Tilt 250EC ya Bumper 25EC) ka spray karna hoga. Aapko 0.5ml dose per liter paani ka istemal karna hoga, aur 100 liters paani mein 200ml medicine milani hogi. Aapko 2 sprays, 10 days ke gap par karna hoga. \n\n📋 AAP KA ACTION PLAN: \n1. Kal subah (Thursday) 5 bajay Tilt 250EC spray karein — 0.5ml per liter paani — poore 100 liter per acre laga den.\n2. 10 din ke baad dobara spray karein.\n3. Spray karte waqt mask aur gloves pehnayein, aur mazboot hawa mein spray na karein.\n4. Bachon ko 24 ghante ke liye treated field se door rakhein.\n\n📞 MADAD KE LIYE: \nAgar aapko koi shak hai ya bimari ka ilaj karna mushkil lag raha hai, to aap Pakistan Agriculture Helpline: 0800-15000 (free, Monday-Saturday) par call kar sakte hain.\n---\n📞 Madad ke liye: Pakistan Agriculture Helpline: 0800-15000 (Free)\nℹ️ Ye advice aapki batai hui information par based hai. Agar problem zyada serious lage to apne local Agriculture Extension Officer se milein.",
+  "agents": [
+    "CROP_DOCTOR"
+  ],
+  "crop": "wheat",
+  "urgency": "MEDIUM"
+}

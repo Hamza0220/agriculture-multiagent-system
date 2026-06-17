@@ -1,0 +1,32 @@
+{
+  "price_data": {
+    "crop": "Onion (Pyaaz)",
+    "date_of_data": "CURRENT",
+    "data_freshness": "CURRENT",
+    "price_per_maund_40kg": "Rs. 2,720",
+    "price_per_kg": "Rs. 68",
+    "best_mandi": "Lahore",
+    "nearest_mandi_price": "Rs. 2,720",
+    "trend": "NOT_AVAILABLE",
+    "compared_to_last_week": "NOT_AVAILABLE"
+  },
+  "selling_advice": {
+    "recommendation": "WAIT",
+    "reason": "Current prices are lower than expected historical averages for this season. Monitor market closely for potential rise.",
+    "if_waiting": "Risk: Prices may not significantly increase in the short term.",
+    "optimal_quantity": "Hold until prices stabilize or show signs of increase."
+  },
+  "transportation": {
+    "distance_to_best_mandi": "Approximately 10km to Lahore",
+    "estimated_cost": "Rs. 150-250 per trolley",
+    "net_price_after_transport": "Rs. 2,720 at gate"
+  },
+  "mandi_tips": [
+    "Arrive early in the morning for better prices.",
+    "Ensure good quality onions are separated from poor quality before selling.",
+    "Consider selling directly to buyers instead of through commission agents to maximize profit."
+  ],
+  "price_disclaimer": "Prices verified from web search. Confirm with local arhi before selling.",
+  "if_no_data": "Call Lahore Mandi: 042-37650000 or visit amis.pk for live prices",
+  "search_raw": "TITLE: Price Dashboard - Punjab Sahulat Bazaars Authority-(PSBA)\nCONTENT: Today's Price List for Lahore ; Lemon. Rs. 175.00 ; Onion. Rs. 68.00 ; Potato. Rs. 28.00 ; Tomato. Rs. 73.00\nURL: https://psba.gop.pk/daily-rate-comparison\n---\nTITLE: Buy Onion 0.95 - 1 kg Mix Size Pack - \u067e\u06cc\u0627\u0632 At Best Price - GrocerApp\nCONTENT: Onion 0.95 - 1 kg Mix Size Pack - \u067e\u06cc\u0627\u0632 Price in Pakistan is Rs. 117 at GrocerApp. Shop Onion 0.95 - 1 kg Mix Size Pack - \u067e\u06cc\u0627\u0632 Online & Get delivery in Lahore,\nURL: https://grocerapp.pk/products/onion-pyaz-142286\n---\nTITLE: Onions Price in Pakistan, June 2026 - Selina Wamucii\nCONTENT: As of June 2026, the onions price in Pakistan available is US$ 0.48 per kg (138 PKR), up 47.7% year-on-year. Pakistan is a significant\nURL: https://www.selinawamucii.com/insights/prices/pakistan/onions\n---\nTITLE: Fresh Onion Price in Pakistan | Tridge\nCONTENT: The wholesale price of Pakistan Fresh Onion has typically been between $0.13 and $0.78 USD per kg, or $0.06 to $0.35 USD per pound (lb).\nURL: https://dir.tridge.com/prices/fresh-onion/PK\n---\nTITLE: Onion - Agricultural Commodity Prices\nCONTENT: Commodity: Onion [ All Prices are in Rs/100Kg specified otherwise ] ; 1 Lahore \u00b7 Graph, 6000 ; 2 Faisalabad \u00b7 Graph, 6000 ; 3 Gujranwala \u00b7 Graph, 6000 ; 4 Okara\nURL: http://www.amis.pk/ViewPrices.aspx?searchType=0&commodityId=23\n---"
+}

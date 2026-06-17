@@ -1,0 +1,30 @@
+AGENTS: ['MARKET_PRICE']
+CROP: onion
+URGENCY: MEDIUM
+
+RESPONSE:
+🌾 FASAL KI SITUATION  
+Aapke pyaaz ka bhav aaj Lahore mein Rs. 2,400 per maund hai. Yeh daam is waqt badh raha hai, isliye behtar hai ke aap jaldi bechein.
+
+💰 MANDI PRICE  
+Aaj ki mandi price ke mutabiq, pyaaz ka daam Rs. 2,400 hai. Yeh daam pichle hafte ke muqablay mein 20% zyada hai. Is waqt demand bhi zyada hai aur supply kam hai, isliye aapko ab bechne ka sochna chahiye. Agar aap intezaar karte hain, to daam gir bhi sakta hai jab naye pyaaz aate hain.
+
+**Mandi Tips:**
+- Mandi Lahore Badami Bagh hai, jo aapke liye sirf 10 km door hai.
+- Behtar daam ke liye, subah 6 baje se pehle wahan pahunchein.
+- Pyaaz ko grade kar lein — bade aur chote pyaaz alag karein.
+- Jumme ke din bechne se bachen, kyunki us din kharidaar kam hote hain.
+
+📋 AAP KA ACTION PLAN  
+1. Aaj hi pyaaz bechein, kyunki daam abhi acha hai.  
+2. Lahore Badami Bagh mandi ki taraf rukh karein aur subah 6 baje se pehle wahan pahunchein.  
+3. Pyaaz ko grade karein — bade aur chote pyaaz alag karein taake behtar daam mil sake.  
+
+📞 MADAD KE LIYE  
+Pakistan Agriculture Helpline: 0800-15000 (Free)  
+ℹ️ Ye advice aapki batai hui information par based hai. Agar problem zyada serious lage to apne local Agriculture Extension Officer se milein.
+
+---
+📞 Madad ke liye: Pakistan Agriculture Helpline: 0800-15000 (Free)
+ℹ️ Ye advice aapki batai hui information par based hai. Agar problem
+   zyada serious lage to apne local Agriculture Extension Officer se milein.

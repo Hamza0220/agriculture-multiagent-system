@@ -1,0 +1,181 @@
+CROP: Mustard (sarson/raya) | Season: Rabi (Oct-Apr) | Region: Punjab, Sindh, KPK
+
+=========================================================================
+CROP: Mustard (sarson/raya/gobhi sarson) | Rabi oilseed crop
+Category: GENERAL | Urgency: PLANNED
+
+Growth Stages:
+- Sowing: October-November (optimal: Oct 15-Nov 15 for Punjab)
+- Germination: 5-7 days
+- Vegetative growth: Nov-Dec
+- Flowering: January-February
+- Pod filling: February-March
+- Harvest: March-April
+
+Soil: Loam to clay loam, pH 6.0-7.5, well-drained
+Seed rate: 2-3 kg/acre (drilled) or 1.5-2 kg/acre (transplanted)
+Spacing: Rows 30-45cm apart
+
+=========================================================================
+DISEASE: Mustard White Rust (Albugo candida) — "Safed Zang"
+Category: DISEASE | Urgency: MODERATE
+
+Symptoms:
+- White shiny pustules on leaves (like white paint splatters)
+- Stems may become swollen and distorted
+- Flower heads may become sterile (green "staghead")
+- Leaves can distort, curl, and die
+- Cool, humid weather favors disease
+
+Chemical Treatment:
+1. Mancozeb (Dithane M-45, Indofil M-45) — 500g per acre in 100L water
+   Cost: Rs. 300-500 per acre
+   Two sprays at 15-day intervals
+2. Metalaxyl + Mancozeb (Ridomil Gold) — 400g per acre (more effective)
+
+Prevention:
+- Crop rotation (avoid Brassica after Brassica)
+- Remove infected plants
+- Resistant varieties available [VERIFY WITH LOCAL EXPERT]
+- Seed treatment with metalaxyl (1.5g per kg seed)
+
+=========================================================================
+DISEASE: Mustard Alternaria Blight (Alternaria brassicae) — "Pati Jali"
+Category: DISEASE | Urgency: MODERATE
+
+Symptoms:
+- Brown/black target-spot lesions on leaves
+- Spots coalesce in severe cases — leaves die
+- Linear black spots on pods — pods split, seeds shriveled
+- Yield loss: 20-40% in epidemic years
+- Seed infection: causes seedling blight next year
+
+Chemical Treatment:
+1. Mancozeb — 500g per acre
+   Cost: Rs. 300-500 per acre
+   Apply at first appearance: 2-3 sprays at 10-15 day intervals
+2. Carbendazim — 200g per acre
+3. Propiconazole (Tilt) — 200ml per acre
+
+Prevention:
+- Seed treatment with Carbendazim (2g/kg seed)
+- Remove and destroy crop debris
+- 3-4 year crop rotation (avoid mustard after mustard)
+- Balanced fertilization (excess N increases severity)
+
+=========================================================================
+DISEASE: Blackleg (Leptosphaeria maculans) — "Kala Tana"
+Category: DISEASE | Urgency: MODERATE
+
+Symptoms:
+- Gray-green lesions at base of stem
+- Lesions turn white with black dots (pycnidia)
+- Stem girdled — plant wilts and dies
+- Roots may rot
+- Pods and seeds also infected
+
+Note: Pakistan's Brassica species are relatively resistant to blackleg
+compared to European and Australian canola
+
+Chemical: Carbendazim seed treatment + Mancozeb foliar spray if needed
+
+=========================================================================
+PEST: Mustard Aphid (Lipaphis erysimi) — "Sarson ki Makhi"
+Category: PEST | Urgency: IMMEDIATE
+
+Symptoms:
+- Clusters of greenish-gray aphids on upper stem, leaves, flower buds
+- Leaves curl, yellow, and become sticky
+- Flowers may abort — pod set reduced
+- Sooty mold on honeydew
+- Can reduce yield by 40-60% if uncontrolled
+- Most serious pest of mustard in Pakistan
+
+Economic Threshold: 10-15 aphids per 10cm shoot
+
+Chemical Treatment:
+1. Imidacloprid (Confidor) — 100ml per acre
+   Cost: Rs. 600-800 per acre
+   Apply at first cluster formation (before flowering ideally)
+2. Dimethoate — 400ml per acre
+   Cost: Rs. 300-500 per acre
+3. Lambda-cyhalothrin — 150ml per acre
+   Cost: Rs. 400-600 per acre
+4. Neem oil — 500ml per acre — moderate control, use in early infestation
+
+Prevention:
+- Early sowing (October) helps avoid peak aphid period
+- Natural predators: ladybird beetles, syrphid fly larvae — conserve them
+- Border crop: mustard + wheat intercropping reduces aphid
+
+=========================================================================
+PEST: Mustard Sawfly (Athalia proxima)
+Category: PEST | Urgency: MODERATE
+
+Symptoms:
+- Larvae feed on leaves — only veins remain (skeletonizing)
+- Young plants may be killed
+- Larvae: dark greenish-black, slimy appearance, 1-2cm long
+
+Chemical Treatment:
+1. Lambda-cyhalothrin — 150ml per acre
+2. Quinalphos — 400ml per acre
+
+=========================================================================
+FERTILIZER: Mustard Nutrient Schedule
+Category: FERTILIZER | Urgency: PLANNED
+
+NPK per acre (for Raya and Gobhi Sarson):
+- Nitrogen: 40 kg/acre (90 kg Urea)
+- Phosphorus: 12 kg/acre (75 kg SSP)
+- Potash: 6 kg/acre (10 kg MOP) — only if soil deficient
+- Sulfur: 10-15 kg/acre — beneficial for oil content (use ammonium sulfate or SSP)
+
+Application:
+1. Basal (at sowing): Full P + Full K + Full S + 1/2 N
+2. Top-dressing (30-35 DAS): 1/2 N
+   — at first branching stage
+
+Sulfur deficiency: Yellowing of young leaves, poor oil content. Mustard is
+highly responsive to sulfur. Apply if using non-S containing fertilizers.
+
+=========================================================================
+IRRIGATION: Mustard Water Management
+Category: IRRIGATION | Urgency: PLANNED
+
+Total: 2-3 irrigations (more in sandy soil)
+
+Critical stages:
+1. Germination (7-10 DAS): Light irrigation
+2. Flowering (45-60 DAS): CRITICAL — don't stress
+3. Pod formation (70-85 DAS): CRITICAL
+
+Mustard is drought-tolerant — but flowering and pod filling are sensitive.
+Avoid waterlogging — highly sensitive.
+Rainfall alone sufficient in some areas (barani/rainfed regions).
+
+=========================================================================
+HARVESTING: Mustard
+Category: HARVESTING | Urgency: THIS SEASON
+
+- Harvest when: 70-80% pods turn yellow-brown
+- Cut crop close to ground with sickle
+- Sun dry in bundles for 5-7 days
+- Thresh by beating on hard surface or tractor
+- Clean by winnowing
+- Sun dry seeds for 2-3 days to <10% moisture before storage
+- Market price (2025): Rs. 3000-4000 per 40kg (varies by season)
+
+=========================================================================
+VARIETIES: Mustard Varieties for Pakistan
+Category: VARIETIES | Urgency: PLANNED
+
+1. Punjab Sarson — High yield, 25-30 maunds/acre
+2. Raya Anmol — Aphid tolerant
+3. KS-75 — High oil content
+4. Bhawalpur Raya — Heat tolerant
+5. Peela Raya — Good for mixed cropping
+6. Khanpur Raya — KPK adapted
+7. Toria varieties: for very early sowing (late September)
+
+[VERIFY WITH LOCAL EXPERT for availability and current recommendations]

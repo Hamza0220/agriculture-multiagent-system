@@ -1,0 +1,293 @@
+CROP GROUP: Vegetables | Season: Both Rabi & Kharif | Regions: All Pakistan
+
+=========================================================================
+CROP: Tomato (tamatar) | Season: Kharif (Jul-Dec) & Rabi (Jan-Jun)
+Region: Punjab (major), Sindh, KPK | Urgency: PLANNED
+
+DISEASE: Early Blight (Alternaria solani) — "Pati Jali"
+Category: DISEASE | Urgency: IMMEDIATE
+
+Symptoms:
+- Brown to black spots on lower leaves first (bullseye/target ring pattern)
+- Spots enlarge, leaves turn yellow and drop
+- Stem lesions and fruit rot near stem end
+- Worse as plants age and fruit load increases
+
+Chemical Treatment:
+1. Mancozeb (Dithane M-45) — 500g per acre
+   Cost: Rs. 300-500 per acre
+   Apply at first sign, repeat every 7-10 days
+2. Chlorothalonil (Bravo) — 500ml per acre
+3. Copper oxychloride — 500g per acre (organic-friendly)
+
+Prevention:
+- Mulch around plants to prevent soil splash
+- Stake plants for air circulation
+- Remove lower infected leaves
+- Avoid overhead irrigation
+
+=========================================================================
+DISEASE: Late Blight (Phytophthora infestans) — "Dair Jali"
+Category: DISEASE | Urgency: IMMEDIATE
+
+Symptoms:
+- Water-soaked irregular spots on leaves — rapid spread
+- White fuzzy growth on leaf undersides in high humidity
+- Brown firm lesions on fruit
+- Plants collapse within days under favorable conditions
+- Famous cause of potato famine — destroys entire fields
+
+Conditions: Cool (15-21°C) + Wet (rain/high humidity) = explosive spread
+
+Chemical Treatment:
+1. Metalaxyl + Mancozeb (Ridomil Gold) — 400g per acre
+   Cost: Rs. 600-800 per acre
+   Apply preventatively when conditions favor disease
+2. Chlorothalonil — 500ml per acre
+3. Copper-based fungicides — moderate protection
+
+Prevention:
+- Resistant varieties available (check seed packet)
+- Destroy infected plants immediately (burn/bag — don't compost)
+- Don't plant near potatoes
+- Stake and prune for better air flow
+
+=========================================================================
+DISEASE: Tomato Blossom End Rot (Physiological — Calcium Deficiency)
+Category: DISEASE | Urgency: MODERATE
+
+Symptoms:
+- Water-soaked spot at blossom end of fruit
+- Spot enlarges, turns brown-black, leathery
+- Affects green and ripe fruit
+- Secondary infection with fungi
+
+Causes:
+- Irregular watering (wet-dry cycles)
+- Calcium deficiency in fruit setting stage
+- High nitrogen encourages growth but calcium can't keep up
+
+Treatment/Prevention:
+- Maintain consistent soil moisture (not too wet, not too dry)
+- Mulch to even out moisture
+- Foliar calcium spray: Calcium nitrate 5g/liter water — 2-3 sprays weekly
+- Avoid excessive nitrogen (especially ammonium-based)
+- Soil test for calcium (apply gypsum if deficient)
+
+=========================================================================
+PEST: Tomato Fruit Worm / Corn Earworm (Helicoverpa armigera) — "Phal ki Sundi"
+Category: PEST | Urgency: IMMEDIATE
+
+Symptoms:
+- Small holes in fruit, larvae bored inside
+- Frass visible at entry hole on fruit
+- Larvae feed inside fruit — fruit rots
+- Terminal shoots may also be attacked
+
+Chemical Treatment:
+1. Chlorantraniliprole (Coragen) — 60ml per acre
+   Cost: Rs. 800-1000 per acre
+   Apply at flowering/fruit set
+2. Emamectin benzoate — 80g per acre
+3. Spinosad — 60ml per acre
+
+=========================================================================
+CROP: Onion (pyaaz) | Season: Rabi (Oct-May) | Region: Punjab, Sindh
+
+DISEASE: Downy Mildew (Peronospora destructor) — "Phafhindi"
+Category: DISEASE | Urgency: IMMEDIATE
+
+Symptoms:
+- Pale yellow to light green spots on leaves
+- Purple-gray fuzzy growth on spots in wet weather
+- Leaves collapse and die from tip
+- Bulbs may rot (secondary bacteria)
+- Spreads rapidly in cool (12-15°C), humid weather
+
+Chemical Treatment:
+1. Metalaxyl + Mancozeb (Ridomil Gold) — 400g per acre
+   Apply preventatively every 7-10 days
+2. Copper oxychloride — 500g per acre
+3. Fosetyl-Al — 250g per acre
+
+Prevention:
+- Well-drained soil — raised beds
+- Avoid overhead irrigation
+- Crop rotation (3-4 years)
+- Destroy infected crop debris
+
+=========================================================================
+PEST: Onion Thrips (Thrips tabaci) — "Pyaaz ki Makhi"
+Category: PEST | Urgency: MODERATE
+
+Symptoms:
+- Silvery-white streaks on leaves
+- Leaves turn brown and die from tip
+- Severely affected plants have stunted bulbs
+- Tiny black insects visible in leaf folds
+
+Economic Threshold: 5-10 thrips per leaf
+
+Chemical Treatment:
+1. Spinosad (Tracer) — 60ml per acre
+   Cost: Rs. 600-800 per acre
+2. Lambda-cyhalothrin — 200ml per acre
+   Cost: Rs. 400-600 per acre
+3. Neem oil — 500ml per acre (mild infestations)
+
+Prevention:
+- Remove previous onion debris
+- Intercrop with carrots or tomatoes
+- Overhead irrigation suppresses thrips
+
+=========================================================================
+CROP: Potato (aloo) | Season: Rabi (Oct-Jan) | Region: Punjab, KPK, Sindh
+
+DISEASE: Late Blight of Potato (Phytophthora infestans) — "Aloo Jali"
+Category: DISEASE | Urgency: IMMEDIATE
+
+Symptoms:
+- Water-soaked lesions on leaves — expand rapidly in wet weather
+- White fungal growth on leaf undersides
+- Brown firm rot on tubers — internal reddish-brown discoloration
+- Plants collapse within 3-5 days of infection in cool wet weather
+- Storage: tubers rot (soft rot bacteria follow)
+
+Chemical Control:
+1. Metalaxyl + Mancozeb (Ridomil Gold) — 400g per acre
+   Apply PREVENTATIVELY (before rain) — curative is too late
+2. Chlorothalonil (Bravo) — 500ml per acre
+3. Propineb — 500g per acre
+
+Seed Treatment:
+- Treat seed potatoes: Mancozeb 2.5g per liter water — dip 10 minutes
+- Use certified disease-free seed only
+
+Prevention:
+- Resistant varieties: Desiree, Sante, Kuroda (check local availability)
+- Destroy volunteer potatoes and cull piles
+- High ridges for earthing (helps prevent tuber infection)
+- Harvest in dry weather
+- Store in cool (>10°C) dark place
+
+=========================================================================
+DISEASE: Potato Scab (Streptomyces scabies)
+Category: DISEASE | Urgency: MODERATE
+
+Symptoms:
+- Brown corky scabs/lesions on tuber surface
+- Raised or pitted lesions — cosmetic damage
+- Worse in dry, alkaline soils
+
+Chemical:
+- Seed treatment with Mancozeb
+- Soil: maintain pH 5.5-6.0 (acidic soils suppress scab)
+
+=========================================================================
+DISEASE: Potato Blackleg (Pectobacterium atrosepticum)
+Category: DISEASE | Urgency: IMMEDIATE
+
+Symptoms:
+- Black rot starting at stem base
+- Plants wilt, yellow, and die
+- Tubers rot — foul smell
+- ~90% of blackleg in Pakistan caused by Pectobacterium atrosepticum
+
+Chemical:
+- NO cure — remove and destroy infected plants
+- Use certified disease-free seed
+- Avoid overwatering in heavy soils
+- Crop rotation 3-4 years
+- Cut seed potatoes with clean knife
+
+=========================================================================
+FERTILIZER: Potato Nutrient Schedule
+Category: FERTILIZER | Urgency: PLANNED
+
+NPK per acre:
+- Nitrogen: 35-45 kg/acre (75-100 kg Urea)
+- Phosphorus: 20-25 kg/acre (125-155 kg SSP)
+- Potash: 25-30 kg/acre (40-50 kg MOP) — Potato is heavy K user
+
+Application:
+1. Basal (at sowing): Full P + Full K + 1/3 N
+2. First earthing (30-35 days): 1/3 N
+3. Second earthing (50-55 days): 1/3 N
+
+IRRIGATION: Potato
+- 4-6 irrigations
+- Critical: tuber initiation stage (30-50 days)
+- Stop irrigation 10-14 days before harvest (better storage)
+- Sandy soils: irrigate every 5-7 days
+- Heavy soils: every 10-12 days
+
+=========================================================================
+CROP: Chillies (mirch) | Season: Kharif (Feb-Jun) | Region: Punjab, Sindh
+
+DISEASE: Chilli Leaf Curl Virus — "Mirch Patti Murh"
+Category: DISEASE | Urgency: IMMEDIATE
+
+Symptoms:
+- Upward or downward leaf curling
+- Reduced leaf size, puckering
+- Stunted plants, reduced fruiting
+- Transmitted by whitefly
+
+Treatment (same vector control as cotton whitefly):
+- Imidacloprid — 100ml per acre for whitefly control
+- Remove infected plants
+- Resistant varieties [VERIFY WITH LOCAL EXPERT]
+
+=========================================================================
+DISEASE: Anthracnose of Chilli / Fruit Rot (Colletotrichum capsici)
+Category: DISEASE | Urgency: MODERATE
+
+Symptoms:
+- Black sunken spots on fruit
+- Orange/pink spore mass in center of spot
+- Fruit rots and drops
+
+Chemical:
+1. Mancozeb — 500g per acre
+2. Carbendazim — 200g per acre
+3. Copper oxychloride — 500g per acre
+
+=========================================================================
+PEST: Chilli Thrips
+Category: PEST | Urgency: IMMEDIATE
+
+Symptoms:
+- Leaf curling, silvering, stunting
+- Flower and fruit drop
+- Severe: plants may die
+
+Treatment:
+1. Spinosad — 60ml per acre
+2. Emamectin benzoate — 80g per acre
+
+FERTILIZER (Chillies):
+N: 20-30 kg/acre, P: 10-15 kg/acre, K: 10-15 kg/acre
+Split N into 3 doses
+
+=========================================================================
+VARIETIES: Vegetable Varieties for Pakistan
+Category: VARIETIES | Urgency: PLANNED
+
+Tomato:
+- Hybrids: Sahel, T-1359, Red Leader, Rambo
+- Desi/local: Roma, Nagina (constraints of open-pollinated)
+- Cherry tomatoes: emerging market
+
+Onion:
+- Purple: Nasarpuri, Swat-1
+- White: Phulkara, Sariab Red
+- Hybrids: Texas Early Grano, Red Crest
+
+Potato:
+- Processing: Kuroda, Lady Rosetta, Sante
+- Table: Desiree, Cardinal, Asterix
+- Chip-specific: Atlantic, Hermes [VERIFY WITH LOCAL EXPERT]
+
+Chillies:
+- Hybrid: Skyline, Hybrix, Shandar
+- Desi: Sanam, Ghotki, Kunri varieties

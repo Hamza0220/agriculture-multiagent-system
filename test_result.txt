@@ -1,0 +1,27 @@
+AGENTS: ['CROP_DOCTOR']
+CROP: wheat
+LANG: english
+URGENCY: MEDIUM
+
+RESPONSE:
+🌾 FASAL KI SITUATION: 
+Your wheat crop in Faisalabad, Punjab, is suffering from a serious disease. The primary diagnosis is Yellow Rust (Puccinia striiformis), also known as "Zard Zang" in Urdu, with a high confidence level. This disease is characterized by yellow stripes parallel to leaf veins and yellow powder on the leaves.
+
+🔬 BIMARI / KEERA: 
+The Crop Doctor has identified the disease as Yellow Rust, which requires immediate attention. The severity of the disease is serious, and it's essential to act within 3-5 days to prevent further damage.
+
+💰 MANDI PRICE: 
+No market price information is available as the Market Price agent was not called.
+
+📋 AAP KA ACTION PLAN: 
+Here's a step-by-step plan to help you tackle the Yellow Rust disease:
+1. **Tomorrow morning (or as soon as possible)**: Spray Propiconazole 25EC (available as Tilt 250EC or Bumper 25EC) at a dose of 0.5ml per liter of water. Use 200ml of the chemical in 100 liters of water per acre. Apply the spray early in the morning or evening, and avoid rain for 6 hours after application.
+2. **10 days after the first spray**: Apply a second spray of Propiconazole 25EC, following the same dosage and application instructions.
+3. **Prevention for next season**: Consider growing resistant wheat varieties like Punjab-2011 or Faisalabad-2008, avoid early sowing, remove volunteer wheat plants before the new season, treat seed with fungicides before sowing, and rotate with non-host crops like chickpea or lentil.
+
+📞 MADAD KE LIYE: 
+If you need further assistance or guidance, please call the Pakistan Agriculture Helpline at 0800-15000 (free, Monday-Saturday). Remember to wear a mask and gloves when spraying, avoid spraying in strong wind, and keep children away from the treated field for 24 hours.
+
+---
+📞 Madad ke liye: Pakistan Agriculture Helpline: 0800-15000 (Free)
+ℹ️ This advice is based on the information you provided. If the problem seems more serious, please consult your local Agriculture Extension Officer.

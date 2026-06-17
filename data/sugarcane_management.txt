@@ -1,0 +1,186 @@
+CROP: Sugarcane (ganna) | Season: Kharif (Feb-Mar planting) | Regions: Punjab, Sindh
+
+=========================================================================
+IRRIGATION: Sugarcane Water Management
+=========================================================================
+Crop: sugarcane (ganna) | Category: IRRIGATION | Season: Kharif
+Region: Punjab, Sindh | Urgency: PLANNED
+
+Sugarcane is a heavy water user — needs 12-18 irrigations depending on soil
+
+Stages:
+1. Germination (0-60 days): Keep soil moist — irrigate every 7-10 days
+   3-4 irrigations critical for proper tillering
+2. Tillering (60-120 days): Moderate — irrigate every 10-12 days
+   Water stress here reduces cane population
+3. Grand growth (120-270 days): CRITICAL — irrigate every 8-12 days
+   Most water-demanding stage — 8-10 irrigations
+   Moisture stress = thin canes, low sugar
+4. Maturity (270-330 days): Reduce gradually — stop 2-3 weeks before harvest
+   Last irrigation: 20-30 days before harvest
+
+Total: 15-20 irrigations for autumn crop, 12-15 for spring crop
+
+Canal vs Tube Well:
+- Canal water: more available in Sindh, supplements in Punjab
+- Tube well: Punjab uses heavily — 3-4 hours per acre per irrigation
+- Water requirement: 2000-3000mm per season (very high)
+
+Conservation:
+- Trash mulching (dried leaves left on field) saves 25% water
+- Drip irrigation: trialed in Pakistan with 40% water saving [VERIFY WITH LOCAL EXPERT]
+- Furrow irrigation is standard
+
+=========================================================================
+FERTILIZER: Sugarcane Nutrient Schedule
+=========================================================================
+Crop: sugarcane (ganna) | Category: FERTILIZER | Season: Kharif
+Region: All Pakistan | Urgency: PLANNED
+
+Recommended NPK per acre:
+- Nitrogen: 80-100 kg/acre (175-220 kg Urea) — HIGH user
+- Phosphorus: 25-30 kg/acre (155-190 kg SSP)
+- Potash: 20-25 kg/acre (35-40 kg MOP)
+- Zinc: 8-10 kg Zinc Sulfate
+
+Application:
+1. Basal (at sowing): Full P + Full K + 1/4 N
+   — Well-rotted FYM 8-10 tonnes/acre + DAP 2 bags + MOP 15kg
+2. First top-dressing (45-60 days): 1/4 N
+   — Urea 55kg — at tillering stage
+3. Second top-dressing (90-120 days): 1/4 N  
+   — Urea 55kg — at grand growth initiation
+4. Third top-dressing (150-180 days): 1/4 N
+   — Urea 55kg — at peak grand growth
+
+Ratoon crop: apply 25-30% MORE nitrogen than plant crop (autumn)
+Earthing-up: apply fertilizer before earthing-up, not after
+
+=========================================================================
+PEST: Sugarcane Stem Borer — "Ganna Ki Sundi"
+=========================================================================
+Crop: sugarcane (ganna) | Category: PEST | Season: Kharif
+Region: All | Urgency: IMMEDIATE
+
+Top Borer (Scirpophaga excerptalis):
+- Deadheart with parallel rows of holes on leaf
+- Central leaf dries — "dead heart"
+
+Stem Borer (Chilo infuscatellus):
+- Small holes on stem with frass (excreta)  
+- Stem breaks at nodes ("dead heart" and side shoots)
+
+Root Borer (Emmalocera depressella):
+- Plants wilt and die in patches
+- Roots damaged, plant easily pulled
+
+Chemical Treatment:
+1. Carbofuran (Furadan) — 8kg per acre — at planting in furrow
+   Cost: Rs. 500-700 per acre
+   ALTERNATIVE: Fipronil — 4kg per acre
+2. Chlorantraniliprole (Coragen) — 60ml per acre at 60-90 days
+
+Biological Control:
+- Trichogramma cards: 5-8 cards per acre every 2 weeks (3 releases)
+- Release egg parasitoid Trichogramma chilonis
+- Cost: Very low — Rs. 200-300 per acre per release
+
+Prevention:
+- Set light traps at field edges
+- Remove and destroy infested shoots (dead hearts)
+- Deep plowing after harvest
+- Resistant varieties: CPF-248, HSF-240
+- Avoid ratooning of infested fields
+
+=========================================================================
+DISEASE: Red Rot (Colletotrichum falcatum) — "Surkh Saran"
+=========================================================================
+Crop: sugarcane (ganna) | Category: DISEASE | Season: Kharif
+Region: Punjab, Sindh | Urgency: IMMEDIATE
+
+Symptoms:
+- Dull red discoloration inside cane — longitudinal red streaks
+- Cane splits longitudinally
+- Leaves dry from tip downward
+- Alcohol-like fermentation smell from infected cane
+- Can kill entire field in severe cases
+
+Treatment (NO effective curative — prevention only):
+1. Seed treatment: Carbendazim 2g/liter water — dip setts (cuttings) for 10 minutes
+2. Hot water treatment: soak setts at 52°C for 30 minutes — kills fungus internally
+3. Remove and destroy infected plants immediately (burn or deep bury)
+4. Avoid growing sugarcane in same field for 3 years
+
+Resistant Varieties (for Red Rot prone areas):
+- CPF-248, CPF-247, CP-85-1491 [VERIFY WITH LOCAL EXPERT]
+
+=========================================================================
+DISEASE: Smut (Ustilago scitaminea) — "Khari"
+=========================================================================
+Crop: sugarcane (ganna) | Category: DISEASE | Season: Kharif
+Region: All | Urgency: MODERATE
+
+Symptoms:
+- Black whip-like structure emerges from top of stalk
+- Whip covered with black dust (teliospores)
+- Stunted, bushy growth — "grass-like" appearance
+- Early infection = no cane formation
+
+Chemical:
+- Carbendazim seed treatment (same as red rot)
+- Remove infected plants with whip intact (bag whip before cutting to avoid spore spread)
+
+=========================================================================
+VARIETIES: Sugarcane Varieties for Pakistan
+=========================================================================
+Crop: sugarcane (ganna) | Category: VARIETIES | Season: Kharif
+Region: All | Urgency: PLANNED
+
+Punjab:
+- CPF-248 — High sugar content, red rot tolerant
+- CPF-247 — High yield, good ratooning
+- HSF-240 — Early maturity, good sugar recovery
+- SPF-234 — Good for heavy soils
+- S-2003-US-633 — High yield
+
+Sindh:
+- BL-4 — Early maturing, high sugar
+- NIA-98 — High yield
+- PR-1000 — Mid-season, good ratoon
+- BF-129 — Good for waterlogged areas
+
+KPK:
+- Mardan-93 — Local adaptation
+
+Ratooning Tips:
+- Best varieties for ratoon: CPF-248, HSF-240 (good regrowth)
+- Ratoon with 25-30% more N
+- Make stubble cut close to ground (2-3 inches)
+- Gap filling within 15 days
+
+=========================================================================
+HARVESTING: Sugarcane
+=========================================================================
+Crop: sugarcane (ganna) | Category: HARVESTING | Season: Kharif
+Region: All | Urgency: THIS SEASON
+
+- Harvest when sugar recovery peaks (November-April)
+- Top visible internode filled (no pithiness)
+- Brix meter reading: 18-20% or higher
+- Manual: cut close to ground, remove tops, strip leaves
+- Use sharp digger to uproot
+- Transport to mill within 24-48 hours (quality deteriorates after cutting)
+- Recent price (2025): Rs. 350-500 per 40kg (varies by mill agreement)
+- Factory lead time: line up delivery with mill (avoid long queues)
+
+=========================================================================
+STORAGE: Sugarcane
+=========================================================================
+Crop: sugarcane (ganna) | Category: STORAGE | Season: Kharif
+Region: All | Urgency: PLANNED
+
+- DON'T store harvested cane in open for more than 48 hours (sugar inversion/loss)
+- Keep stacked in shade, wet jute covering on top
+- Spray with water if storing >24 hours
+- Better to leave standing in field and harvest as needed
+- Ratooning possible if fields are managed well immediately after harvest

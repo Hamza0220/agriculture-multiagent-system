@@ -1,0 +1,370 @@
+CROP: Wheat (gandum) | Season: Rabi (Oct-Apr) | Major Regions: Punjab, Sindh, KPK
+
+=========================================================================
+DISEASE: Yellow Rust (Puccinia striiformis) — "Zard Zang"
+=========================================================================
+Crop: wheat (gandum) | Category: DISEASE | Season: Rabi
+Region: Punjab (severe), KPK | Urgency: IMMEDIATE
+
+Symptoms:
+- Yellow to orange-yellow stripes (pustules) running parallel to leaf veins
+- Yellow powder (urediniospores) rubs off on fingers when touched
+- First appears on lower leaves, spreads upward
+- In severe cases, leaves turn completely yellow and die
+- Disease develops rapidly at 10-15°C with high humidity (>80%)
+
+Conditions Favoring Disease:
+- Cool temperatures (10-15°C) with frequent rain or dew
+- Early sown wheat (October) more susceptible
+- Dense canopy with poor air circulation
+- Continuous wheat cropping without rotation
+- Susceptible varieties (lack of resistant genes)
+
+Chemical Treatment:
+1. Propiconazole 25EC (Tilt 250EC — Syngenta) — 200ml per acre in 100L water
+   Cost: Rs. 800-1200 per acre
+   Apply at first appearance of symptoms
+   Second spray after 10-14 days if needed
+   Local brands: Tilt 250EC (Syngenta), Bumper 25EC
+
+2. Azoxystrobin + Difenoconazole (Amistar Top, Rekado) — 200ml per acre
+   Cost: Rs. 1000-1500 per acre
+
+3. Triadimefon — 100g per acre
+   Cost: Rs. 400-600 per acre
+   [VERIFY WITH LOCAL EXPERT]
+
+4. Tebuconazole + Trifloxystrobin (Nativo) — 200ml per acre
+   Cost: Rs. 1200-1600 per acre
+
+Application Guidelines:
+- Spray in early morning (6-9 AM) or late evening (5-7 PM)
+- Avoid spraying if rain expected within 6 hours
+- Use hollow cone nozzles for better coverage
+- Start spraying from field edges (disease enters from edges)
+- Complete spray within 2-3 days of symptom detection
+
+Resistant Varieties for Pakistan:
+- Punjab-2011 (moderately resistant)
+- Faisalabad-2008 (moderately resistant)
+- Ujala-2015
+- Zincol-2016
+- Akbar-2019
+- Very susceptible: Galaxy-2013, Sehar-2006
+
+Prevention:
+- Grow resistant varieties
+- Avoid early sowing (sow after November 15)
+- Remove volunteer wheat plants before new season
+- Treat seed with fungicides before sowing
+- Rotate with non-host crops (chickpea, lentil)
+
+=========================================================================
+DISEASE: Leaf Rust (Puccinia triticina) — "Pati Zang" / "Bhoora Zang"
+=========================================================================
+Crop: wheat (gandum) | Category: DISEASE | Season: Rabi
+Region: All wheat-growing regions | Urgency: IMMEDIATE
+
+Symptoms:
+- Small, circular to oval orange-brown pustules on leaf surfaces
+- Pustules appear scattered on both upper and lower leaf surfaces
+- Yellow halo surrounds each pustule
+- Leaves dry up prematurely in severe infections
+- Can cause yield losses of 15-40% in susceptible varieties
+
+Conditions Favoring Disease:
+- Moderate temperatures (15-22°C)
+- High humidity and frequent rainfall
+- Dense crop canopy
+- Late sowing increases risk
+
+Chemical Treatment (same options as Yellow Rust):
+1. Propiconazole 25EC (Tilt 250EC) — 200ml per acre
+2. Azoxystrobin + Difenoconazole — 200ml per acre
+
+Prevention:
+- Resistant varieties: Punjab-2011, Faisalabad-2008, Zincol-2016
+- Balanced nitrogen fertilization (excess N increases susceptibility)
+- Timely sowing (November 15-December 15)
+
+=========================================================================
+DISEASE: Stem Rust (Puccinia graminis) — "Tana Zang" / "Kala Zang"
+=========================================================================
+Crop: wheat (gandum) | Category: DISEASE | Season: Rabi
+Region: Punjab, Sindh | Urgency: IMMEDIATE
+
+Symptoms:
+- Large, elongated reddish-brown pustules on stems, leaf sheaths, and leaves
+- Pustules rupture stem epidermis, giving ragged appearance
+- Black teliospores develop later in the season (hence "black rust")
+- Causes stem weakening, lodging, and shriveled grains
+- Most damaging rust disease — can cause 100% yield loss in severe cases
+- Note: Less common in Pakistan than yellow rust
+
+Conditions Favoring Disease:
+- Higher temperatures (20-30°C) with high humidity
+- Late-sown crops at higher risk
+
+Chemical Treatment:
+1. Tebuconazole (Folicur) — 250ml per acre
+2. Propiconazole + Tebuconazole combination products
+3. Apply as soon as pustules are detected on stems
+
+Prevention:
+- Grow resistant varieties (all modern Pakistani varieties have Sr gene resistance)
+- Avoid growing wheat near barberry bushes (alternate host)
+- Eradicate volunteer wheat before new season
+
+=========================================================================
+DISEASE: Powdery Mildew (Blumeria graminis) — "Safed Phaphundi"
+=========================================================================
+Crop: wheat (gandum) | Category: DISEASE | Season: Rabi
+Region: Punjab (central/irrigated areas) | Urgency: MODERATE
+
+Symptoms:
+- White to light gray powdery growth on upper leaf surfaces, stems, and spikes
+- Powdery coating can rub off easily
+- Affected leaves turn yellow and die prematurely
+- Disease starts on lower leaves and moves upward
+- Reduces photosynthesis and grain filling
+
+Conditions Favoring Disease:
+- High humidity (but no free water on leaves)
+- Moderate temperatures (15-20°C)
+- Dense canopy with shade
+- High nitrogen fertilization (succulent growth)
+- Dense sowing (high seed rate)
+
+Chemical Treatment:
+1. Propiconazole 25EC — 200ml per acre (same as for rust)
+2. Triadimefon (Bayleton) — 100g per acre
+3. Sulfur-based fungicides — organic option, 500g per acre
+   Cost: Rs. 300-500 per acre
+
+Prevention:
+- Avoid excessive nitrogen application
+- Maintain recommended seed rate (50-60kg/acre)
+- Resistant varieties: Lasani-2008, Faisalabad-2008
+
+=========================================================================
+PEST: Wheat Aphid Complex — "Gandum ki Makhiyan"
+=========================================================================
+Crop: wheat (gandum) | Category: PEST | Season: Rabi
+Region: All regions | Urgency: MODERATE
+
+Species:
+- Sitobion avenae (Grain aphid)
+- Rhopalosiphum padi (Bird cherry-oat aphid)
+- Schizaphis graminum (Green bug)
+
+Symptoms:
+- Large clusters of small soft-bodied insects on leaves, stems, and heads
+- Sticky honeydew excretion on leaves (promotes sooty mold)
+- Leaves turn yellow, curl, and dry up
+- Heads with fewer grains — shriveled and light weight
+- Aphid infestation can reduce yield by 20-40%
+
+Threshold: 5-10 aphids per tiller before flowering
+Treatment warranted when: Aphids present on 50%+ tillers
+
+Chemical Treatment:
+1. Imidacloprid (Confidor) — 100ml per acre
+   Cost: Rs. 600-800 per acre
+2. Dimethoate — 400ml per acre
+   Cost: Rs. 300-500 per acre
+3. Lambda-cyhalothrin — 150ml per acre
+   Cost: Rs. 400-600 per acre
+
+Biological Control:
+- Natural predators: ladybird beetles, lacewings, syrphid flies
+- Avoid broad-spectrum insecticides early in season to preserve natural enemies
+- Neem extract (Azadirachtin) — 500ml per acre — mild infestation
+
+Prevention:
+- Conserve natural enemies by avoiding unnecessary sprays
+- Balanced nitrogen (excess N attracts aphids)
+- Timely sowing reduces infestation risk
+
+=========================================================================
+PEST: Wheat Termite — "Deemak"
+=========================================================================
+Crop: wheat (gandum) | Category: PEST | Season: Rabi
+Region: Punjab (thinned irrigated areas), Sindh | Urgency: IMMEDIATE
+
+Symptoms:
+- Plants wilt and die in scattered patches
+- Roots eaten — plant pulls up easily without resistance
+- Hollow stems with soil particles inside
+- Damage visible in patches rather than whole field
+
+Chemical Treatment:
+- Seed treatment with Imidacloprid (Confidor) — 5ml/kg seed before sowing
+- Soil drench with Chlorpyrifos — 1 liter per acre at sowing
+- Apply to field edges first (termites enter from borders)
+
+Prevention:
+- Deep summer plowing exposes termites to sun
+- Remove previous crop residues
+- Seed treatment is most effective
+
+=========================================================================
+DISEASE: Wheat Blight / Root Rot Complex
+=========================================================================
+Crop: wheat (gandum) | Category: DISEASE | Season: Rabi
+Region: All regions | Urgency: MODERATE
+
+Causes: Fusarium spp., Bipolaris sorokiniana, Rhizoctonia solani
+
+Symptoms:
+- Seedling death / poor germination
+- Brown lesions on roots and crown
+- Basal stem rot near soil line
+- Whiteheads (prematurely ripened heads with shriveled grains)
+- Stunted plants scattered in field
+
+Chemical Treatment:
+- Seed treatment: Tebuconazole (Raxil) — 1.5ml/kg seed
+- Tebuconazole + Azoxystrobin seed treatment
+
+Prevention:
+- Seed treatment before sowing
+- Crop rotation (avoid wheat-wheat sequence)
+- Well-prepared seedbed with good drainage
+- Use certified disease-free seed
+
+=========================================================================
+FERTILIZER: Wheat Nutrient Schedule
+=========================================================================
+Crop: wheat (gandum) | Category: FERTILIZER | Season: Rabi
+Region: All Pakistan | Urgency: PLANNED
+
+Recommended NPK per acre:
+- Nitrogen (N): 50-70 kg/acre (110-155 kg Urea)
+- Phosphorus (P2O5): 25-30 kg/acre (155-190 kg SSP)
+- Potash (K2O): 12-15 kg/acre (20-25 kg MOP)
+- Zinc Sulfate: 8-10 kg/acre (if Zn deficient soil)
+
+Application Timing:
+1. Basal (at sowing): Full P + Full K + 1/3 N
+   — DAP 1 bag (50kg) + SOP 10kg OR SSP 3 bags + MOP 10kg
+2. First Top-dressing (30-40 days after sowing):
+   — Urea 1 bag (50kg) — at crown root initiation stage
+3. Second Top-dressing (60-70 days after sowing):
+   — Urea 0.5 bag (25kg) — at stem elongation/boosting stage
+   — Apply after first irrigation, when field is walkable
+
+Fertilizer Tips:
+- Apply Zinc at sowing if soil is deficient
+- Foliar spray of Urea 2% (200g in 10L water) at grain filling if N deficiency seen
+- Sulphur: 10-15kg per acre if growing in sandy soils
+- Organic: well-rotted farmyard manure 4-5 tonnes/acre before sowing [VERIFY WITH LOCAL EXPERT]
+
+=========================================================================
+SOIL: Wheat Soil Preparation
+=========================================================================
+Crop: wheat (gandum) | Category: SOIL | Season: Rabi
+Region: All Pakistan | Urgency: PLANNED
+
+Soil Requirements:
+- Loam / clay-loam preferred
+- Good drainage essential
+- pH range: 6.0-7.5 (neutral to slightly acidic)
+- Organic matter: >1%
+
+Preparation:
+1. Deep plowing after rice harvest (20-25cm) with moldboard plow
+2. 2-3 crosswise cultivations with cultivator
+3. Leveling with laser land leveler (saves 25-30% irrigation water)
+4. Rotted FYM 4-5 tonnes/acre — spread 2-3 weeks before sowing
+5. Final field preparation: 2 planking for seedbed finishing
+
+=========================================================================
+HARVESTING: Wheat Harvesting Guide
+=========================================================================
+Crop: wheat (gandum) | Category: HARVESTING | Season: Rabi
+Region: All Pakistan | Urgency: THIS SEASON
+
+Harvest Time: April-May (depending on region and sowing time)
+Telltale Signs of Maturity:
+- Grains turn golden brown and hard
+- Grain moisture content below 14%
+- Stems turn yellow-brown
+- Grains separate easily from chaff when rubbed
+- Moisture test: biting a grain — should crack, not squash
+
+Harvest Method:
+- Combine harvester: Most common — Rs. 2500-3500 per acre
+- Manual harvesting: sickle cutting — 15-20 person-days per acre
+- Best time: early morning (grain less likely to shatter)
+
+Post-Harvest:
+- Immediate threshing if manually harvested
+- Sun drying: spread grains 2 inches thick, turn every hour for 3-4 days
+- Safe storage moisture: below 12%
+- Store in clean gunny bags or metal bins
+- Use aluminum phosphide (Phostoxin) tablets for storage pest control — 1 tablet per 100kg grain
+- Recent price (2025): Rs. 2400-2800 per 40kg
+
+=========================================================================
+VARIETIES: Recommended Wheat Varieties for Pakistan
+=========================================================================
+Crop: wheat (gandum) | Category: VARIETIES | Season: Rabi
+Region: Punjab | Urgency: PLANNED
+
+Approved Varieties (Punjab):
+1. Punjab-2011 — Disease resistant, high yield (45-50 maunds/acre)
+2. Faisalabad-2008 — Rust resistant, good for late sowing
+3. Akbar-2019 — High yield (50-55 maunds/acre), rust tolerant
+4. Zincol-2016 — Zinc-enriched (biofortified), 40-45 maunds/acre
+5. Ujala-2015 — Heat tolerant, suited for late sowing
+6. Galaxy-2013 — Very high yield but rust susceptible
+7. Johar-2016 — Good for rain-fed areas
+8. Anaj-2017 — Suited for central Punjab, 45-50 maunds/acre
+
+Approved Varieties (Sindh):
+1. Sindh-1 — Heat tolerant
+2. NIA-Amber — Resistant to lodging
+3. Benazir-2014 — Good for Sindh conditions
+
+Approved Varieties (KPK):
+1. Pirsabak-2015 — Rust resistant
+2. Khyber-2019 — High yield for KPK conditions
+
+Variety Selection Tips:
+- Choose based on region, sowing time, and disease history
+- For rust-prone areas: Punjab-2011 or Faisalabad-2008
+- For late sowing (after December 15): Ujala-2015, Faisalabad-2008
+- For organic farming: Zincol-2016
+
+=========================================================================
+IRRIGATION: Wheat Irrigation Schedule
+Crop: wheat (gandum) | Category: IRRIGATION | Season: Rabi
+Region: All Pakistan | Urgency: PLANNED
+=========================================================================
+Number of irrigations: 4-6 depending on soil type and rainfall
+
+Critical Stages (do NOT miss):
+1. Crown Root Initiation — 21-25 days after sowing (DAS)
+2. Tillering — 45-50 DAS
+3. Stem Elongation/Boosting — 70-75 DAS
+4. Grain Filling — 90-100 DAS
+5. Dough Stage — 110-120 DAS (optional, avoid if crop is healthy)
+
+Schedule for Punjab (sandy loam):
+- 1st irrigation: 20-25 DAS (crown root initiation) — CRITICAL
+- 2nd irrigation: 45-50 DAS (tillering)
+- 3rd irrigation: 70-75 DAS (stem elongation/boosting)
+- 4th irrigation: 90-95 DAS (grain filling)
+- 5th irrigation: 110-120 DAS (dough stage, light irrigation only)
+
+Water depth: 2-3 inches per irrigation
+Tube well hours: 3-4 hours per irrigation (for 1 acre, 1 cusec pump)
+Sandier soils need more frequent but lighter irrigations
+
+Water-saving tips:
+- Laser leveling saves 25-30% water
+- Skip last irrigation if crop looks healthy
+- Early morning irrigation reduces evaporation loss
+- Direct seeded wheat needs lighter, more frequent irrigation than transplanted
+
+[VERIFY WITH LOCAL EXPERT: Exact irrigation schedule varies by soil type and weather]
